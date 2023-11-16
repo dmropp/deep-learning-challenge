@@ -22,4 +22,4 @@ The purpose of the Alphabet Soup analysis is to utilize a neural network to deve
 
 ## Summary
 
-The best performance achieved by the model was 72.63% accuracy, well below the target of 75%. The lack of performance increase after adjusting the number of neurons, layers, and activation functions indicates that better preprocessing of the data is required to improve accuracy. New model...
+The best performance achieved by the model was 72.63% accuracy, well below the target of 75%. The lack of performance increase after adjusting the number of neurons, layers, and activation functions indicates that better preprocessing of the data is required to improve accuracy. A supervised logistic regression model could be implemented as well, utilizing the same feature and target variables, as the features are already labeled and the desired training outcome is a binary classification - whether the funded organization successfully used the funds or not. 
